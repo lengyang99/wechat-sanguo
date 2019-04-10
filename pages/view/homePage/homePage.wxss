@@ -1,0 +1,13 @@
+/**index.wxss**/
+image {
+  width: 100%;
+  height: 300rpx;
+}
+
+.card {
+  border: 2rpx solid #ffffff;
+  border-radius: 5rpx;
+  box-shadow: 4rpx 1rpx 1rpx #cccccc;
+  margin: 8rpx;
+  
+}

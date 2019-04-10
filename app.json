@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/view/homePage/homePage",
+    "pages/view/secondPage/aboutUs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+    {
+      "pagePath": "pages/view/homePage/homePage",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/view/secondPage/aboutUs",
+      "text": "关于我们"
+    }]
+  },
+  "color": "#191970",
+  "selectedColor": "#ffffff",
+  "backgroundColor": "#ffffff"
+
+}

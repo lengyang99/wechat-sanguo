@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="card">
+    <image class='image' src='../../images/face.jpg' mode='aspectFill'></image>
+    <text class="title" bindtap='onNextPage'>{{motto}}</text>
+  </view>
+</view>
